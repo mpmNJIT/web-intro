@@ -1,10 +1,22 @@
+body {
+    font-family: source-sans-pro, sans-serif;
+    background-color: #bee5eb;
+}
+body h1{
+    font-family: days-one, sans-serif;
+}
+
+.jumbotron{
+    background-color: #ffeeba; !important
+}
+
 .footer{
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: aliceblue;
-    color:white;
+    background-color: oldlace ;
+    color: #1b1e21;
     text-align: center;
     padding: 10px;
     font-size: 0.75rem;
