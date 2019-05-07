@@ -23,3 +23,11 @@ body h1{
     font-size: 0.75rem;
     font-family: Calibri;
 }
+
+article{
+    background-color: #ffeeba;
+}
+
+.media{
+    background-color: #ffeeba;
+}
